@@ -1,0 +1,23 @@
+body{
+    background-color: #fc2007;
+}
+
+.about-section{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-width : 900px;
+    margin: 50px auto;
+}
+.txt-color{
+    color: #ff0000;
+    
+}
+.img{
+    max-width: 100%;
+    height:250px;
+    border-radius: 9px;
+
+}
